@@ -1,5 +1,5 @@
 ![Pub](https://img.shields.io/pub/v/playable_toolbar_flutter)
-# This project is a package now. You can find it on [Pub.dev](https://pub.dev/playable_toolbar_flutter).
+# This project is a package now. You can find it on [Pub.dev](https://pub.dev/packages/playable_toolbar_flutter).
 
 <br>
 <br>
